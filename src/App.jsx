@@ -790,10 +790,8 @@ function App() {
         <div className="brand" onClick={() => setMode("home")}>
           <div className="brand-dot"></div>
           <div>
-            <h1>
-              DSA<span>Visual</span>
-            </h1>
-            <p>Algorithms, finally visible.</p>
+          <h1>Algo<span>Vision</span></h1>
+          <p>DSA visualizer for algorithms.</p>
           </div>
         </div>
 
